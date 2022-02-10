@@ -3,4 +3,8 @@ import 'package:get/get.dart';
 
 import 'home.dart';
 
-void main() => runApp(GetMaterialApp(home: Home()));
+void main() => runApp(
+      GetMaterialApp(
+        home: Home(),
+      ),
+    );
